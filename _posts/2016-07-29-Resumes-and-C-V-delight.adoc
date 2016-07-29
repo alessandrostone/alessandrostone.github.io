@@ -11,7 +11,8 @@ http://registry.jsonresume.org/#sceptile
 https://ddbullfrog.github.io/resumecard/
 
 [Avatars.io](https://www.avatars.io/)
-##fb avatars
+
+## fb avatars
 https://avatars.io/facebook/alessandro.aresta/large
 https://avatars.io/facebook/alessandro.aresta/medium
 https://avatars.io/facebook/alessandro.aresta/small
