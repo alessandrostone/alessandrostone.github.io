@@ -11,8 +11,10 @@
     "cover": "https://avatars.io/twitter/alexanderstone",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "github": "alessandrostone"
+  },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   }
 }
