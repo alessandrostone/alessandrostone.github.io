@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alessandro Stone Aresta Blog]]></title><description><![CDATA[Alessandro Stone Aresta Blog]]></description><link>https://alessandrostone.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 29 Jul 2016 21:34:01 GMT</lastBuildDate><atom:link href="https://alessandrostone.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume's and CV's delight]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alessandro Stone Aresta Blog]]></title><description><![CDATA[Alessandro Stone Aresta Blog]]></description><link>https://alessandrostone.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 29 Jul 2016 21:36:38 GMT</lastBuildDate><atom:link href="https://alessandrostone.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume's and CV's delight]]></title><description><![CDATA[<div class="sect2">
 <h3 id="_jsonresume">jsonResume</h3>
 <div class="paragraph">
 <p><a href="https://jsonresume.org" class="bare">https://jsonresume.org</a></p>
@@ -12,11 +12,17 @@
 <a href="https://ddbullfrog.github.io/resumecard/" class="bare">https://ddbullfrog.github.io/resumecard/</a></p>
 </div>
 <div class="paragraph">
-<p>[Avatars.io](<a href="https://www.avatars.io/" class="bare">https://www.avatars.io/</a>)
-##fb avatars
-<a href="https://avatars.io/facebook/alessandro.aresta/large" class="bare">https://avatars.io/facebook/alessandro.aresta/large</a>
+<p>[Avatars.io](<a href="https://www.avatars.io/" class="bare">https://www.avatars.io/</a>)</p>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_fb_avatars">fb avatars</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://avatars.io/facebook/alessandro.aresta/large" class="bare">https://avatars.io/facebook/alessandro.aresta/large</a>
 <a href="https://avatars.io/facebook/alessandro.aresta/medium" class="bare">https://avatars.io/facebook/alessandro.aresta/medium</a>
 <a href="https://avatars.io/facebook/alessandro.aresta/small" class="bare">https://avatars.io/facebook/alessandro.aresta/small</a></p>
+</div>
 </div>
 </div>
 <div class="sect1">
