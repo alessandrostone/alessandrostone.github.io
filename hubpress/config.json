@@ -6,10 +6,11 @@
   },
   "site": {
     "title": "Alessandro Stone Aresta Blog",
+    "cover": "https://avatars.io/twitter/alexanderstone",
     "postsPerPage": "5"
   },
   "socialnetwork": {},
   "theme": {
-    "name": "casper"
+    "name": "uno-zen"
   }
 }
