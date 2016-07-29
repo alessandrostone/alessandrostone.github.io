@@ -4,9 +4,12 @@
     "repositoryName": "alessandrostone.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Alessandro Stone Aresta Blog",
+    "postsPerPage": "5"
+  },
   "socialnetwork": {},
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   }
 }
