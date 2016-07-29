@@ -1,0 +1,40 @@
+# Resume's and CV's delight
+
+### jsonResume
+
+https://jsonresume.org
+
+http://registry.jsonresume.org/#onepageresume
+http://registry.jsonresume.org/#sceptile
+
+###jekyll themes
+https://ddbullfrog.github.io/resumecard/
+
+[Avatars.io](https://www.avatars.io/)
+##fb avatars
+https://avatars.io/facebook/alessandro.aresta/large
+https://avatars.io/facebook/alessandro.aresta/medium
+https://avatars.io/facebook/alessandro.aresta/small
+
+## twitter avatars
+https://avatars.io/twitter/alexanderstone
+same as before with large, medium, small variants
+
+## Avatars and Avatarri
+
+https://www.avatars.io/
+
+### Graphing
+
+http://marvl.infotech.monash.edu/webcola/examples/sucrosebreakdown.html
+
+![](/Users/alessandroaresta/Desktop/Screen Shot 2016-06-17 at 22.11.47.png)
+
+http://marvl.infotech.monash.edu/webcola/
+
+[cola.js: Constraint-based Layout in the Browser](http://marvl.infotech.monash.edu/webcola/)
+
+
+[greuler - graph theory visualizations](http://maurizzzio.github.io/greuler)
+
+![](/Users/alessandroaresta/Documents/BLOG/greuler.png)
