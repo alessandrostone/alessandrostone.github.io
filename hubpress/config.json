@@ -6,6 +6,8 @@
   },
   "site": {
     "title": "Alessandro Stone Aresta Blog",
+    "description": "bla bla bla ... and code",
+    "logo": "https://avatars.io/twitter/alexanderstone",
     "cover": "https://avatars.io/twitter/alexanderstone",
     "postsPerPage": "5"
   },
